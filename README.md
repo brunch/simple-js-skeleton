@@ -7,7 +7,7 @@ Main languages are JavaScript,
 
 ## Getting started
 
-Clone the repo and run `npm install` & `brunch build`.
+Run `brunch new <app> -s github://brunch/simple-js-skeleton` & `brunch build`.
 See more info on the [official site](http://brunch.io)
 
 ## Overview
@@ -26,8 +26,6 @@ See more info on the [official site](http://brunch.io)
       application.js
       initialize.js
     /test/
-      functional/
-      unit/
     /vendor/
       scripts/
         backbone.js
